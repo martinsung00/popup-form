@@ -8,6 +8,8 @@ This is a simulation of a pop-up form created with React.JS! Check out the secre
 
 ### Opening the Pop-up Form
 
+<img src="https://user-images.githubusercontent.com/61127851/121643820-1f352f00-ca47-11eb-8b1c-2bcdc507bb6b.gif" alt="popup_demo_gif" height="170" width="400" />
+
 - Click on the "sign-up" button, indicated by a pen.
 
 ### Closing the Pop-up Form
